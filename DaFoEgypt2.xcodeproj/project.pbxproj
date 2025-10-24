@@ -423,6 +423,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DaFoEgypt2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Egypt: Sands of Eternity";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This app needs access to camera to upload photos to websites";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app needs access to photo library to upload images to websites";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "This app would like to access your device identifier to provide personalized ads and improve your experience. You can change this setting at any time in Privacy Settings";
@@ -465,6 +466,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DaFoEgypt2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Egypt: Sands of Eternity";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This app needs access to camera to upload photos to websites";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app needs access to photo library to upload images to websites";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "This app would like to access your device identifier to provide personalized ads and improve your experience. You can change this setting at any time in Privacy Settings";
